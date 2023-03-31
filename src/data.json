@@ -1,0 +1,17 @@
+{
+  "Drogba":{
+    "Born":"Född: 11 mars 1978 ",
+    "Teams":"Lag: Le Mans, Guingamp, Marseille, Chelsea, Shanghai Greenland Shenhua FC , Galatasaray ,Chelsea ,Montreal Impact , Phoenix ",
+    "Goals": "Mål gjorda: 212"
+  },
+  "Zidane":{
+    "Born":"Född: 23 juni 1972 ",
+    "Teams":"Lag: Cannes, Bordeaux, Juventus, Real Madrid ",
+    "Goals":"Mål gjorda: 95"
+  },
+  "Iniesta":{
+    "Born":"Född: 11 maj 1984 ",
+    "Teams":"Lag: Barcelona, Vissel Kobe ",
+    "Goals":"Mål gjorda: 61"
+  }
+}
